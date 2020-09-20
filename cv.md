@@ -8,6 +8,7 @@
 ## Skills
 * C#
 * SQL 
+* HTML,CSS
 ## Education
 * ** 2008-2013 Yanka Kupala State University of Grodno(Engineer-Programmer)**
 
