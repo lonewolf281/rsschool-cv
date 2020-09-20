@@ -4,6 +4,7 @@
 * **Telegram:** @lonewolf281
 * **e-mail:** lonewolf0508@gmail.com
 * **GitHub:** @lonewolf281
+* **Skype:** lonewolf2811
 
 ## Skills
 * C#
